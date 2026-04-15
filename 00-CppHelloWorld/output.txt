@@ -1,0 +1,5 @@
+PS C:\Users\IAN\Downloads\HolaMundo> make hello
+g++     hello.cpp   -o hello
+PS C:\Users\IAN\Downloads\HolaMundo> ./hello.exe
+Hello, World!
+PS C:\Users\IAN\Downloads\HolaMundo> 
